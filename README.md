@@ -3,17 +3,8 @@
 Jeremy Taylor
 
 ## Seriously, some minimal fucking things are needed to make this shit perfect.
-
-**Ten fucking declarations, a `@media` block, and one attribute.**
-
-That's how much CSS and HTML it took to turn that [grotesque pile of shit](https://motherfuckingwebsite.com/) into this finally perfect masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
-
-* Shit's _finally_ lightweight and loads fast;
-* _Finally_ fits on all your shitty screens;
-* _Finally_ looks the same in all your shitty browsers;
-* _Won't_ bleach your fucking eyeballs at night if your browser thinks you like dark things;
-* The motherfucker's _still_ accessible to every asshole that visits your site;
-* Shit's _still_ legible and gets your fucking point across.
+xcvbxc that [grotesque pile of shit](https://motherfuckingwebsite.com/) into this finally perfect masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
+asdfsdfghsdfcvbxcv
 
 ### And guess what, motherfucker:
 
@@ -21,10 +12,7 @@ You never knew it, but it's easy to improve reliability on your site. Here's how
 
 ## A little more accessibility
 
-I know you love marginalization, but you should take care of people.
-The <abbr title="HyperText Markup Language">HTML</abbr> tag doesn't include the [`lang` attribute](https://www.w3.org/TR/html5/dom.html#the-lang-and-xml:lang-attributes) in your shitty webpage.  
-You ever listen to a [wrong language screen reader lecture](https://www.youtube.com/watch?v=NP94u7y_KkQ)? What a shitty experience.
-
+I know youhfdghvbncvbzxcv
 ## Typography matters
 
 [Don't be dumb with typography](https://smartquotesforsmartpeople.com/). Don't let improper marks and quotes make their way onto websites because of dumb defaults in applications and CMSs.  
